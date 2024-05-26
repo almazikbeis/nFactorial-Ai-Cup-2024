@@ -1,11 +1,11 @@
 # nFactorial-Ai-Cup-2024
 Fork this repository and build nFactorial Ai Cup 2024 projects 
 
-## < Your Name >
+## < Almaz Beisenov >
 
-## < Your App's Name >
+## Ielts specking Feadbeck app >
 
-## < Your App's description, technical considerations, etc. >
+## < project is a web-based application designed for evaluating IELTS speaking test performances. The app allows users to upload audio recordings of their responses to typical IELTS speaking questions. It then analyzes the recordings and provides detailed feedback on various aspects of speaking, including fluency, grammar, lexical resource, and pronunciation. The app also offers an overall score and specific suggestions for improvement based on the analyzed audio. >
 
 
 ## Typeform to submit:
